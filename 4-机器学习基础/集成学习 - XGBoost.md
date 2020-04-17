@@ -1,6 +1,6 @@
 # 集成学习 - XGBoost
 
----
+---详情跳转网页：https://www.cnblogs.com/wj-1314/p/9402324.html ---
 
 # 前言
 # 1，Xgboost简介
