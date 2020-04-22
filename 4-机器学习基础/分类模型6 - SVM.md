@@ -41,7 +41,7 @@ $$
 
 **训练数据集中与分离超平面距离最近的样本点成为支持向量**
 
-![1](..\img\SVM\1.jpg)
+![1](https://github.com/jiuquguiyu/NLPer-Interview/blob/master/img/SVM/1.jpg)
 
 ### 4. SVM 能解决哪些问题？
 
@@ -101,7 +101,7 @@ y_i (w^Tx_i + b) \geq 1
 $$
 那么我们就得到了最大间隔超平面的上下两个超平面：
 
-![2](..\img\SVM\2.jpg)
+![2](https://github.com/jiuquguiyu/NLPer-Interview/blob/master/img/SVM/2.jpg)
 
 两个异类超平面的公式分别为：
 $$
@@ -152,7 +152,7 @@ $$
 
 对于不等式约束优化问题，其主要思想在于**将不等式约束条件转变为等式约束条件，引入松弛变量，将松弛变量也是为优化变量。**
 
-![3](..\img\SVM\3.jpg)
+![3](https://github.com/jiuquguiyu/NLPer-Interview/blob/master/img/SVM/3.jpg)
 
 对于我们的问题：
 $$
