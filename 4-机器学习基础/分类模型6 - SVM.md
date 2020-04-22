@@ -321,7 +321,7 @@ $$
 
 ### 1. SVM 中的支持向量是什么意思？
 
-![10.svm](..\img\10.svm.png)
+![10.svm](https://github.com/jiuquguiyu/NLPer-Interview/blob/master/img/10.svm.png)
 
  如上图所示，我们在获得分离超平面时，并非所有的点都对分离超平面的位置起决定作用。
 
